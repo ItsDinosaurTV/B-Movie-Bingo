@@ -6,7 +6,7 @@
     <title>Unity WebGL Player | B-Movie Bingo</title>
   </head>
   <body style="text-align: center">
-    <canvas id="unity-canvas" width=960 height=600 style="width: 960px; height: 600px; background: #231F20"></canvas>
+    <canvas id="unity-canvas" width=960 height=600 style="width: 960px; height: 600px; background: url('Build/Bingo.jpg') center / cover"></canvas>
     <script src="Build/Bingo.loader.js"></script>
     <script>
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
@@ -18,9 +18,9 @@
       }
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/Bingo.data",
-        frameworkUrl: "Build/Bingo.framework.js",
-        codeUrl: "Build/Bingo.wasm",
+        dataUrl: "Build/Bingo.data.unityweb",
+        frameworkUrl: "Build/Bingo.framework.js.unityweb",
+        codeUrl: "Build/Bingo.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "B-Movie Bingo",
