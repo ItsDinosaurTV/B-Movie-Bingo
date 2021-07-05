@@ -27,9 +27,9 @@
       const buildUrl = "Build";
       const loaderUrl = buildUrl + "/B-Movie-Bingo.loader.js";
       const config = {
-        dataUrl: buildUrl + "/B-Movie-Bingo.data.unityweb",
-        frameworkUrl: buildUrl + "/B-Movie-Bingo.framework.js.unityweb",
-        codeUrl: buildUrl + "/B-Movie-Bingo.wasm.unityweb",
+        dataUrl: buildUrl + "/B-Movie-Bingo.data",
+        frameworkUrl: buildUrl + "/B-Movie-Bingo.framework.js",
+        codeUrl: buildUrl + "/B-Movie-Bingo.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "B-Movie Bingo",
@@ -63,7 +63,7 @@
         container.className = "unity-mobile";
         config.devicePixelRatio = 1;
       }
-      canvas.style.background = "url('" + buildUrl + "/B-Movie-Bingo.jpg.unityweb') center / cover";
+      canvas.style.background = "url('" + buildUrl + "/B-Movie-Bingo.jpg') center / cover";
       loadingCover.style.display = "";
 
       const script = document.createElement("script");
