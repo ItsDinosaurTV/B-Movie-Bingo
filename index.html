@@ -23,13 +23,13 @@
     </div>
     <div id="unity-fullscreen-button" style="display: none;"></div>
     <script>
-      const hideFullScreenButton = "False";
+      const hideFullScreenButton = "True";
       const buildUrl = "Build";
-      const loaderUrl = buildUrl + "/Bingo.loader.js";
+      const loaderUrl = buildUrl + "/B-Movie-Bingo.loader.js";
       const config = {
-        dataUrl: buildUrl + "/Bingo.data.unityweb",
-        frameworkUrl: buildUrl + "/Bingo.framework.js.unityweb",
-        codeUrl: buildUrl + "/Bingo.wasm.unityweb",
+        dataUrl: buildUrl + "/B-Movie-Bingo.data.unityweb",
+        frameworkUrl: buildUrl + "/B-Movie-Bingo.framework.js.unityweb",
+        codeUrl: buildUrl + "/B-Movie-Bingo.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "B-Movie Bingo",
@@ -63,7 +63,7 @@
         container.className = "unity-mobile";
         config.devicePixelRatio = 1;
       }
-      canvas.style.background = "url('" + buildUrl + "/Bingo.jpg') center / cover";
+      canvas.style.background = "url('" + buildUrl + "/B-Movie-Bingo.jpg') center / cover";
       loadingCover.style.display = "";
 
       const script = document.createElement("script");
