@@ -1,5 +1,7 @@
 {
   "genreName": "Action",
   "hexPrimaryColour": "#FF8000",
-  "hexSecondaryColour": "#FFFF00"
-}
+  "hexSecondaryColour": "#FFFF00",
+  "bingoButtonEffect": "Lightning",
+  "bingoScreenEffect": "Confetti"  
+  }

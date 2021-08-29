@@ -1,5 +1,7 @@
 {
   "genreName": "Spy Kids and Machete",
   "hexPrimaryColour": "#FF4000",
-  "hexSecondaryColour": "#FFCC80"
+  "hexSecondaryColour": "#FFCC80",
+  "bingoButtonEffect": "Lightning",
+  "bingoScreenEffect": "Confetti"
 }
