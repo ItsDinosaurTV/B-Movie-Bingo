@@ -1,7 +1,7 @@
 {
   "genreName": "E",
-  "hexPrimaryColour": "#00FFFF",
-  "hexSecondaryColour": "FFFFFF",
+  "hexPrimaryColour": "#FF4000",
+  "hexSecondaryColour": "#FFFF00",
   "bingoButtonEffect": "Fire",
   "bingoScreenEffect": "Confetti"  
-}
+  }
