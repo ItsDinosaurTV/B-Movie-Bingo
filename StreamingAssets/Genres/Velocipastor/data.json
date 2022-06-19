@@ -1,7 +1,7 @@
 {
-  "genreName": "The Velocipastor",
-  "hexPrimaryColour": "#800000",
-  "hexSecondaryColour": "#FFFF00",
-  "bingoButtonEffect": "Lightning",
-  "bingoScreenEffect": "Blood"
+    "genreName": "The Velocipastor",
+    "hexPrimaryColour": "#800000",
+    "hexSecondaryColour": "#FFFF00",
+    "bingoButtonEffect": "Lightning",
+    "bingoScreenEffect": "Blood"
 }

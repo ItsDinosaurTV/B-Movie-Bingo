@@ -1,7 +1,7 @@
 {
-  "genreName": "Cool as Ice",
-  "hexPrimaryColour": "#00FFFF",
-  "hexSecondaryColour": "FFFFFF",
-  "bingoButtonEffect": "Lightning",
-  "bingoScreenEffect": "Confetti"  
+    "genreName": "Cool as Ice",
+    "hexPrimaryColour": "#00FFFF",
+    "hexSecondaryColour": "#FFFFFF",
+    "bingoButtonEffect": "Lightning",
+    "bingoScreenEffect": "Confetti"
 }

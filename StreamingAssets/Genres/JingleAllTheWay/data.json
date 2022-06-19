@@ -1,7 +1,7 @@
 {
-  "genreName": "Jingle all the Way",
-  "hexPrimaryColour": "#FF0000",
-  "hexSecondaryColour": "#FFFF00",
-  "bingoButtonEffect": "JingleBells",
-  "bingoScreenEffect": "Presents"
+    "genreName": "Jingle all the Way",
+    "hexPrimaryColour": "#FF0000",
+    "hexSecondaryColour": "#FFFF00",
+    "bingoButtonEffect": "JingleBells",
+    "bingoScreenEffect": "Presents"
 }

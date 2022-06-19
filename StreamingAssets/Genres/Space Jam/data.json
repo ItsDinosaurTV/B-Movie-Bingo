@@ -1,7 +1,7 @@
 {
-  "genreName": "Space Jam",
-  "hexPrimaryColour": "#0080FF",
-  "hexSecondaryColour": "#FFFFFF",
-  "bingoButtonEffect": "Lightning",
-  "bingoScreenEffect": "Confetti"
+    "genreName": "Space Jam",
+    "hexPrimaryColour": "#0080FF",
+    "hexSecondaryColour": "#FFFFFF",
+    "bingoButtonEffect": "Lightning",
+    "bingoScreenEffect": "Confetti"
 }

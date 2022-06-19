@@ -1,7 +1,7 @@
 {
-  "genreName": "Horror",
-  "hexPrimaryColour": "#400080",
-  "hexSecondaryColour": "#00FFFF",
-  "bingoButtonEffect": "Lightning",
-  "bingoScreenEffect": "Confetti"
+    "genreName": "Horror",
+    "hexPrimaryColour": "#400080",
+    "hexSecondaryColour": "#00FFFF",
+    "bingoButtonEffect": "Lightning",
+    "bingoScreenEffect": "Confetti"
 }

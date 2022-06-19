@@ -1,7 +1,7 @@
 {
-  "genreName": "A Nightmare on Elm Street",
-  "hexPrimaryColour": "#800000",
-  "hexSecondaryColour": "#FF0000",
-  "bingoButtonEffect": "Lightning",
-  "bingoScreenEffect": "Blood"
+    "genreName": "A Nightmare on Elm Street",
+    "hexPrimaryColour": "#800000",
+    "hexSecondaryColour": "#FF0000",
+    "bingoButtonEffect": "Lightning",
+    "bingoScreenEffect": "Blood"
 }
